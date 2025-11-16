@@ -1,0 +1,26 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.includeInlayParameterNameHints": "all",
+    "python.analysis.includeInlayFunctionParameterTypeHints": true,
+    "python.analysis.includeInlayVariableTypeHints": true,
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.fixAll": [
+        "source.unusedImports",
+        "source.convertImportFormat"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "explicit"
+    },
+    "python.analysis.importFormat": "absolute",
+    "python.suggest.autoImports": true,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "off",
+        "strings": "off"
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.acceptSuggestionOnEnter": "on",
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.parameterHints.enabled": true
+}
