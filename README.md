@@ -1,4 +1,4 @@
-# PostApi
+# FastApi
 
 Steps to run project:
 
